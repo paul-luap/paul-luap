@@ -1,4 +1,7 @@
 ## Hello there 👋 
+Actuellement étudiant à l'école de la Plateforme en 1ère année, je souhaite trouver mon alternance dans le domaine de la cybersécurité 
+
+
 
 Here are some ideas to get you started:
 
